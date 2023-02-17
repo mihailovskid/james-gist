@@ -1,0 +1,21 @@
+.main-title {
+    text-align: center;
+}
+h1 {
+    margin-bottom: 0;
+}
+.header {
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.description {
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+.margin-left {
+    margin-left: 15px;
+}
+.hr-line {
+    margin-bottom: 0;
+    margin-top: 30px;
+}
